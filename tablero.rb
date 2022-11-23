@@ -63,8 +63,7 @@ class Board
     #             end
     #         end
     #     end
-    # end
-        
+    # end       
 
     def pieces_in_a_column(piece)
         pieces_in_a_column = 0
